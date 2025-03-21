@@ -17,10 +17,10 @@ A simple Netflix UI clone built using HTML, CSS, and JavaScript.
 
 ## Installation
 1. Clone the repository:
- https://github.com/ChereeshmaAlahari/netflix-clone
+ https://github.com/sai120412/netflix-clone
 2. Navigate to the project directory:
    netflix-clone
-3. Open `index.html` in your browser.
+3. Open `index1.html` in your browser.
 
 ## Usage
 - Browse through movie categories
@@ -36,4 +36,4 @@ A simple Netflix UI clone built using HTML, CSS, and JavaScript.
 This project is open-source and available under the MIT License.
 
 ## Author
-(https://github.com/ChereeshmaAlahari)
+(https://github.com/sai120412)
